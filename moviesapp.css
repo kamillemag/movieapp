@@ -1,0 +1,14 @@
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50x;
+    text-align: center;
+    background-color: darkred;
+}
+
+body {
+    background-color: cadetblue;
+    background-image: url("https://img.freepik.com/premium-vector/simple-vector-hand-draw-sketch-seamless-background-pop-cornxa_9834-2753.jpg?w=2000");
+    text-align: center;
+}
+
